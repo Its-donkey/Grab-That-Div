@@ -1,0 +1,6 @@
+{
+	"name": "Get That Div",
+	"description": "From any website you can select a html element that will be broadcast by OBS",
+	"version": "0.01",
+	"manifest_version": 3
+}
